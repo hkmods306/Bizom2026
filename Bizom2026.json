@@ -19,6 +19,16 @@
           "8fabcdee42172701": "Active"
         }
       },
+      {
+      "1": {
+        "Username": "1",
+        "Banned": false,
+        "ExpiryDate": "2026-12-31",
+        "DeviceLimit": 1,
+        "Devices": {
+          "441ba50c4a2a94ce": "Active"
+        }
+        },
       "NEW-USER-KEY": {
         "Username": "Field Agent 007",
         "Banned": false,
