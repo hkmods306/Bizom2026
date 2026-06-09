@@ -1,32 +1,16 @@
 [
   {
-    "id": "974b65b4918022e4",
-    "key": "Komal",
-    "expiresAt": "2025-11-29",
-    "allowOffline": true 
-  },
-  {
     "id": "441ba50c4a2a94ce",
-    "key": "1",
-    "expiresAt": "2026-07-01",
-    "allowOffline": true 
-  },
-  {
-    "id": "441ba50c4a2a94ce",
-    "key": "1",
-    "expiresAt": "2026-07-01",
-    "allowOffline": true 
-  },
-{
-    "id": "441ba50c4a2a94ce",
-    "key": "1",
-    "expiresAt": "2026-07-09",
+    "username": "1",
+    "password": "1",
+    "expiresAt": "20256-06-13",
     "allowOffline": true
   },
   {
-    "id": "b44bf633d3fdc251",
-    "key": "800051446",
-    "expiresAt": "2026-07-09",
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
     "allowOffline": true
   }
 ]
