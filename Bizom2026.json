@@ -1,10 +1,16 @@
 [
-  
   {
     "id": "441ba50c4a2a94ce",
     "username": "441ba50c4a2a94ce",
     "password": "441ba50c4a2a94ce",
-    "expiresAt": "2025-06-13",
+    "expiresAt": "2026-06-13",
+    "allowOffline": true
+  },
+  {
+    "id": "441ba50c4a2a94ce",
+    "username": "441ba50c4a2a94ce",
+    "password": "441ba50c4a2a94ce",
+    "expiresAt": "2026-06-13",
     "allowOffline": true
   },
   {
