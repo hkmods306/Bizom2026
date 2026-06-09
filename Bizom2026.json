@@ -10,15 +10,6 @@
       "Update_Msg": "A critical update is available."
     },
     "Keys": {
-      "MY-PARLE-KEY-1": {
-        "Username": "Admin",
-        "Banned": false,
-        "ExpiryDate": "2026-12-31",
-        "DeviceLimit": 1,
-        "Devices": {
-          "8fabcdee42172701": "Active"
-        }
-      },
       "1": {
         "Username": "1",
         "Banned": false,
@@ -27,7 +18,7 @@
         "Devices": {
           "441ba50c4a2a94ce": "Active"
         }
-        },
+      },
       "NEW-USER-KEY": {
         "Username": "Field Agent 007",
         "Banned": false,
